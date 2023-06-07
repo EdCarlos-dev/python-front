@@ -1,5 +1,7 @@
 import tkinter
 import customtkinter
+
+
 # https://github.com/TomSchimansky/CustomTkinter
 #https://docs.python.org/pt-br/3/library/venv.html
 
