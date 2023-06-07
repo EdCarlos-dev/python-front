@@ -1,6 +1,7 @@
 import tkinter
 import customtkinter
 # https://github.com/TomSchimansky/CustomTkinter
+#https://docs.python.org/pt-br/3/library/venv.html
 
 customtkinter.set_appearance_mode("System")  # Modes: system (default), light, dark
 customtkinter.set_default_color_theme("blue")  # Themes: blue (default), dark-blue, green
